@@ -1,3 +1,3 @@
 <template>
-    <p>One</p>
+	<p>One</p>
 </template>
